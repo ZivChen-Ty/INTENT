@@ -171,7 +171,7 @@ If you find our work or this code useful in your research, please consider leavi
 This codebase is heavily inspired by and built upon the excellent [Salesforce LAVIS](https://github.com/chiangsonw/cala?tab=readme-ov-file), [SPRC](https://github.com/chunmeifeng/SPRC) and [TME](https://github.com/He-Changhao/2025-CVPR-TME) library. We thank the authors for their open-source contributions.
 
 ## ✉️ Contact
-For any questions, issues, or feedback, please open an issue on GitHub or reach out to me at zivczw@gmail.com.
+For any questions, issues, or feedback, please [open an issue](https://github.com/ZivChen-Ty/INTENT/issues) on GitHub or reach out to me at zivczw@gmail.com.
 
 ---
 
