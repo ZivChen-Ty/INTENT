@@ -2,7 +2,7 @@
   <img src="./figs/INTENT-logo.png" width="60%" style="border: none; box-shadow: none;">
 </div>
 
-<div align="center">
+
   
 <p align="center">
   <h1 align="center">🚀 (AAAI 2026) INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval</h1>
