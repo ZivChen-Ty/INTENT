@@ -36,12 +36,15 @@ Welcome to the official repository for **INTENT**. This project provides the cod
 ### INTENT Pipeline (based on [LAVIS](https://github.com/chiangsonw/cala?tab=readme-ov-file))
 ![](./figs/pipeline.png)
 
+
+
 ## Table of Contents
 - [Experiment Results](#-experiment-results)
 - [Project Structure](#-project-structure)
 - [Setup](#-setup)
 - [Data Preparation](#-data-preparation)
 - [Quick Start](#-quick-start)
+- [Some More Discussion](#-some-more-discussion)
 - [Citation](#-citation)
 - [Acknowledgement](#-acknowledgement)
 
@@ -171,7 +174,10 @@ python cirr_sub_BLIP2.py \
   --output_file ./submission.json
 ```
 
-
+## 🤔 Some More Discussion
+> While developing the first module of INTENT, we experimented with a straightforward causal mechanism: explicitly aligning the intervened image with the original one. Conceptually, this operation seems to help mitigate spurious correlations by blocking potential backdoor paths in our specific setting.
+> We wonder if this causal perspective could also provide some inspiration for the Zero-Shot Composed Image Retrieval (ZS-CIR) community. Given that ZS-CIR models heavily rely on large-scale pre-training, they might occasionally be influenced by dataset biases and high-frequency co-occurrences. Introducing a similar causal alignment mechanism could potentially be an interesting direction to explore for decoupling the true modification intent from inherent background noise.
+> Although this is just a preliminary thought rather than a definitive conclusion, we hope it might spark some fresh ideas and discussions for future research towards more robust ZS-CIR models.
 
 ## 📝 Citation
 If you find our work or this code useful in your research, please consider leaving a star or citing our paper 🥰:
