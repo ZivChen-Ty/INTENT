@@ -12,9 +12,14 @@
     <img src="./figs/intro.png" alt="INTENT Teaser" width="700">
   </div>
   <p align="center">
+     <a href="https://aaai.org/Conferences/AAAI-26/"><img src="https://img.shields.io/badge/AAAI-2026-blue.svg?style=flat-square" alt="AAAI 2026"></a>
     <a href="https://arxiv.org/abs/coming soon"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg"></a>
-    <a href=""><img alt='page' src="https://img.shields.io/badge/Project-ComingSoon-orange"></a>
+    <a href=""><img alt='page' src="https://img.shields.io/badge/Project-Website-orange"></a>
+        <a href="https://lee-zixu.github.io"><img src="https://img.shields.io/badge/Author Page-blue.svg" alt="Author Page"></a>
+    <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/python-≥3.8-blue?style=flat-square" alt="Python">
     <a href="https://github.com/"><img alt='stars' src="https://img.shields.io/github/stars/ZivChen-Ty/INTENT?style=social"></a>
+    
   </p>
 </p>
 
@@ -31,6 +36,18 @@ Welcome to the official repository for **INTENT**. This project provides the cod
 ### INTENT Pipeline (based on [LAVIS](https://github.com/chiangsonw/cala?tab=readme-ov-file))
 ![](./figs/pipeline.png)
 
+## Table of Contents
+
+- [Project Structure](#-project-structure)
+- [Setup](#-setup)
+- [Data Preparation](#-data-preparation)
+- [Quick Start](#-quick-start)
+- [Experiment Results](#-experiment-results)
+- [Citation](#-citation)
+- [Acknowledgement](#-acknowledgement)
+
+---
+
 ## 📂 Project Structure
 To help you navigate our codebase quickly, here is an overview of the main components:
 
@@ -46,7 +63,7 @@ To help you navigate our codebase quickly, here is an overview of the main compo
 └── utils.py               # 🛠️ Helper functions (logging, metrics, etc.)
 ```
 
-## 🛠️ Installation & Setup
+## 🛠️ Setup
 We recommend running this code on a Linux system with an NVIDIA GPU.
 ### 1. Clone the repository
 ```
@@ -114,7 +131,7 @@ Organize the data as follows:
 ```
 *(Note: Please modify datasets.py if your local data paths differ from the default setup.)*
 
-## 🚀 Quick Start: Run INTENT
+## 🚀 Quick Start
 ### 1. Training & Evaluating the Model
 To train the INTENT model from scratch, use the train_INTENT.py script. You can specify hyperparameters via command line arguments or a config file.
 ```
@@ -155,3 +172,14 @@ This codebase is heavily inspired by and built upon the excellent [Salesforce LA
 
 ## ✉️ Contact
 For any questions, issues, or feedback, please open an issue on GitHub or reach out to me at zivczw@gmail.com.
+
+---
+
+<div align="center">
+
+**If this project helps you, please leave a Star!**
+
+[![GitHub stars](https://img.shields.io/github/stars/ZivChen-Ty/INTENT?style=social)](https://github.com/ZivChen-Ty/INTENT)
+
+
+</div>
