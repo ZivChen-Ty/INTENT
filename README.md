@@ -1,21 +1,6 @@
 <p align="center">
   <h1 align="center">🚀 (AAAI 2026) INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval</h1>
-  <p align="center">
-    <a href="https://your-website.com/"><strong>Zhiwei Chen</strong></a>
-    &nbsp;&nbsp;
-    <strong>Yupeng Hu</strong>
-    &nbsp;&nbsp;
-    <strong>Zhiheng Fu</strong>
-    &nbsp;&nbsp;
-    <strong>Zixu Li</strong>
-    &nbsp;&nbsp;
-    <strong>Jiale Huang</strong>
-    &nbsp;&nbsp;
-    <strong>Qinlei Huang</strong>
-    &nbsp;&nbsp;
-    <strong>Liqiang Nie</strong>
-    &nbsp;&nbsp;
-  </p>
+
   <br> 
   <div align="center">
     <img src="./figs/intro.png" alt="INTENT Teaser" width="700">
@@ -25,7 +10,6 @@
     <a href=""><img alt='page' src="https://img.shields.io/badge/Project-ComingSoon-orange"></a>
     <a href="https://github.com/"><img alt='stars' src="https://img.shields.io/github/stars/ZivChen-Ty/INTENT?style=social"></a>
   </p>
-  <br>
 </p>
 
 ## 📌 Introduction
