@@ -37,12 +37,11 @@ Welcome to the official repository for **INTENT**. This project provides the cod
 ![](./figs/pipeline.png)
 
 ## Table of Contents
-
+- [Experiment Results](#-experiment-results)
 - [Project Structure](#-project-structure)
 - [Setup](#-setup)
 - [Data Preparation](#-data-preparation)
 - [Quick Start](#-quick-start)
-- [Experiment Results](#-experiment-results)
 - [Citation](#-citation)
 - [Acknowledgement](#-acknowledgement)
 
@@ -57,7 +56,7 @@ are highlighted in bold and underlined, respectively.</caption>
 
 ![](./figs/cirr.png)
 #### FIQ:
-<caption><strong>Table 1.</strong> Performance comparison on FashionIQ in terms of R@K (%). The best result under each noise ratio is highlighted in
+<caption><strong>Table 2.</strong> Performance comparison on FashionIQ in terms of R@K (%). The best result under each noise ratio is highlighted in
 bold, while the second-best result is underlined.</caption>
 
 ![](./figs/fiq.png)
