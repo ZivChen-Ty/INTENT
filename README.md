@@ -47,6 +47,25 @@ Welcome to the official repository for **INTENT**. This project provides the cod
 - [Acknowledgement](#-acknowledgement)
 
 ---
+## 🏃‍♂️ Experiment Results
+### CIR Task Performance
+> 💡 <span style="color:#2980b9;">**Note for Fully-Supervised CIR Benchmarking:**</span> 
+> 🎯 The **0% noise** setting in the table below is equivalent to the **traditional fully-supervised CIR** paradigm. We highlight this `0%` block to facilitate direct and fair comparisons for researchers working on conventional supervised methods.
+#### CIRR：
+<caption><strong>Table 1.</strong> Performance comparison on the CIRR test set in terms of R@K (%) and Rsub@K (%). The best and second-best results
+are highlighted in bold and underlined, respectively.</caption>
+
+![](./figs/cirr.png)
+#### FIQ:
+<caption><strong>Table 1.</strong> Performance comparison on FashionIQ in terms of R@K (%). The best result under each noise ratio is highlighted in
+bold, while the second-best result is underlined.</caption>
+
+![](./figs/fiq.png)
+### Image Intervention
+![](./figs/intervention.png)
+
+
+
 
 ## 📂 Project Structure
 To help you navigate our codebase quickly, here is an overview of the main components:
@@ -74,6 +93,12 @@ cd INTENT
 ```
 conda create -n intent_env python=3.9
 conda activate intent_env
+
+# Install PyTorch (The evaluated environment uses Torch 2.1.0 with CUDA 12.1 compatibility)
+pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url [https://download.pytorch.org/whl/cu121](https://download.pytorch.org/whl/cu121)
+
+# Install core dependencies
+pip install open-clip-torch==2.24.0 scikit-learn==1.3.2 transformers==4.25.0 salesforce-lavis==1.0.2 timm==0.9.16
 ```
 ### 3. Install dependencies
 ```
@@ -147,14 +172,7 @@ python cirr_sub_BLIP2.py \
   --output_file ./submission.json
 ```
 
-## 🏃‍♂️ Experiment Results
-### CIR Task Performance
-#### CIRR：
-![](./figs/cirr.png)
-#### FIQ:
-![](./figs/fiq.png)
-### Image Intervention
-![](./figs/intervention.png)
+
 
 ## 📝 Citation
 If you find our work or this code useful in your research, please consider leaving a star or citing our paper 🥰:
