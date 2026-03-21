@@ -30,6 +30,7 @@ Welcome to the official repository for **INTENT**. This project provides the cod
 *Disclaimer: This codebase is intended for research purposes.*
 
 ## 📰 News and Updates
+* **[Mar 2026]** 🚀 Official paper is released at [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/39181).
 * **[Mar 2026]** 🚀 We have officially released the training and testing code for INTENT!
 * **[Nov 2025]** ⏳ INTENT is accepted by AAAI 2026.
 
