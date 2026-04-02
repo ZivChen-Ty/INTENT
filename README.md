@@ -4,13 +4,27 @@
 
 
   
-<p align="center">
+<div align="center">
   <h1 align="center">🚀 (AAAI 2026) INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval</h1>
-
+  <div align="center">
+  <a target="_blank" href="https://zivchen-ty.github.io/">Zhiwei&#160;Chen</a><sup>1</sup>,
+  <a target="_blank" href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng&#160;Hu</a><sup>1&#9993</sup>,
+  <a target="_blank" href="https://zhihfu.github.io/">Zhiheng&#160;Fu</a><sup>1</sup>,
+  <a target="_blank" href="https://lee-zixu.github.io/">Zixu&#160;Li</a><sup>1</sup>,
+  Jiale&#160;Huang</a><sup>1</sup>,
+  <a target="_blank" href="https://windlikeo.github.io/HQL.github.io/">Qinlei&#160;Huang</a><sup>1</sup>,
+  <a target="_blank" href="https://faculty.sdu.edu.cn/weiyinwei1/zh_CN/index.htm">Yinwei&#160;Wei</a><sup>1</sup>
+  </div>
+  <sup>1</sup>School of Software, Shandong University &#160&#160&#160</span>
+  <br />
+  <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+  <br/>
+  
   <br> 
   <div align="center">
     <img src="./figs/intro.png" alt="INTENT Teaser" width="700">
   </div>
+
   <p align="center">
      <a href="https://aaai.org/Conferences/AAAI-26/"><img src="https://img.shields.io/badge/AAAI-2026-blue.svg?style=flat-square" alt="AAAI 2026"></a>
     <a href="https://arxiv.org/abs/coming soon"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg"></a>
@@ -22,7 +36,7 @@
     <a href="https://github.com/"><img alt='stars' src="https://img.shields.io/github/stars/ZivChen-Ty/INTENT?style=social"></a>
     
   </p>
-</p>
+</div>
 
 ## 📌 Introduction
 Welcome to the official repository for **INTENT**. This project provides the codebase of our paper, offering a novel approach to Composed Image Retrieval with Noisy Correspondence using BLIP-2 architectures. 
