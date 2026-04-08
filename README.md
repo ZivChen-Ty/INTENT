@@ -221,7 +221,7 @@ For any questions, issues, or feedback, please [open an issue](https://github.co
 <table style="width:100%; border:none; text-align:center; background-color:transparent;">
   <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="../images/tema-logo.png" alt="TEMA" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="/figs/logos/tema-logo.png" alt="TEMA" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>TEMA (ACL'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://lee-zixu.github.io/TEMA.github.io/" target="_blank">Web</a> | 
