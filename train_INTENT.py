@@ -19,7 +19,7 @@ from tqdm import tqdm
 import clip 
 import utils
 import datasets
-import test_BLIP2 as test
+import test as test
 import math  
 from itertools import product 
 from data_utils import squarepad_transform, targetpad_transform
