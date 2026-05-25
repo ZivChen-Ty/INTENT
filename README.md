@@ -221,7 +221,7 @@ For any questions, issues, or feedback, please [open an issue](https://github.co
 <table style="width:100%; border:none; text-align:center; background-color:transparent;">
   <tr style="border:none;">
    <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/tema-logo.png" alt="TEMA" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="/figs/logos/tema-logo.png" alt="TEMA" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>TEMA (ACL'26)</b><br>
       <span style="font-size: 0.9em;">
        <a href="https://arxiv.org/abs/2604.21806" target="_blank">Paper</a> |   
@@ -230,7 +230,7 @@ For any questions, issues, or feedback, please [open an issue](https://github.co
       </span>
     </td>
    <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/consep-logo.png" alt="ConeSep" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="/figs/logos/consep-logo.png" alt="ConeSep" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ConeSep (CVPR'26)</b><br>
       <span style="font-size: 0.9em;">
        <a href="https://arxiv.org/abs/2604.20358" target="_blank">Paper</a> | 
@@ -240,7 +240,7 @@ For any questions, issues, or feedback, please [open an issue](https://github.co
       </span>
     </td>
      <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/airknow-logo.png" alt="Air-Know" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="/figs/logos/airknow-logo.png" alt="Air-Know" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>Air-Know (CVPR'26)</b><br>
       <span style="font-size: 0.9em;">
        <a href="https://arxiv.org/abs/2604.19386" target="_blank">Paper</a> | 
